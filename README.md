@@ -44,7 +44,8 @@ This project is an interactive Financial Planning & Analysis (FP&A) dashboard bu
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here.)
+<img width="1873" height="842" alt="image" src="https://github.com/user-attachments/assets/9850617b-0e20-4bc1-94cd-fa8c856e5ef3" />
+
 
 ---
 
